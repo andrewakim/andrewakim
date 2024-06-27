@@ -1,6 +1,6 @@
 ### 👋 hello, i'm andrew and i like to build things :hammer:
 
-i'm a product manager for actions at github.
+i'm a product manager at github.
 
 i live in the bay area :bridge_at_night: and :rocket: [love startups](https://www.linkedin.com/in/andrewakim).
 
